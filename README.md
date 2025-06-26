@@ -40,11 +40,7 @@ I’m a BBA student at KR Mangalam University, specializing in Business Intellig
 📊 Tools Used: Power BI, Excel  
 📂 [Project Files & Dashboard](https://drive.google.com/drive/folders/1TmOTbuZ2totezvYG_3_JX6_w446OftgC?usp=drive_link)
 
-📸 Preview:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev-kalra/dev-kalra/main/assets/dashboard-preview.png" width="800" alt="Retail Dashboard Preview"/>
-</p>
 
 ---
 
